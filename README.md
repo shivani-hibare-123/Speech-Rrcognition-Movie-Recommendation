@@ -26,7 +26,7 @@ Requirements
 •	Sounddevice
 •	Wavfile
 •	Wavio
-•	Tkinter
+
 Model Training
 Librosa is used for audio preprocessing. The soundfile format is used to read and write sound files. It supports a number of audio file formats and enables easy integration with other libraries for audio processing. Transformers used in speech-to-text conversion and natural language processing tasks. Libraries that make it easier to read and write audio files in the WAV format include Wavfile and Wavio. In order to facilitate integration with other audio processing libraries, they offer functions to handle audio data represented as NumPy arrays.
 Output
