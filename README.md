@@ -1,4 +1,4 @@
-# Speech-Rrcognition-Movie-Recommendation
+# Speech enabled movie recommendation system
 SPEECH RECOGNITION & MOVIE RECOMMENDATION PROJECT
 This project is designed to convert speech into text using speech recognition techniques and recommend a movie to the user based on the recognized text. The goal is to provide an interactive and user-friendly movie recommendation system using spoken input.
 Table of Contents
